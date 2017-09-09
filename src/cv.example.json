@@ -1,0 +1,74 @@
+{
+  "FI": {
+    "name": "",
+    "address": {
+      "address": "",
+      "zipcode": "",
+      "country": ""
+    },
+    "phone": "",
+    "email": "",
+    "github": "",
+    "jobs": [
+      {
+        "company": "",
+        "title": "",
+        "startTime": "tammikuu 1970",
+        "endTime": "joulukuu 1970",
+        "description": [""]
+      },
+      {
+        "company": "",
+        "title": "",
+        "customTimeFrame":
+          "tammikuu 1970 - joulukuu 1970, tammikuu 1972 - joulukuu 1972"
+      }
+    ],
+    "education": [
+      {
+        "name": "",
+        "startTime": "",
+        "endTime": "",
+        "major": "",
+        "minor": ""
+      }
+    ],
+    "skills": [""]
+  },
+  "EN": {
+    "name": "",
+    "address": {
+      "address": "",
+      "zipcode": "",
+      "country": ""
+    },
+    "phone": "",
+    "email": "",
+    "github": "",
+    "jobs": [
+      {
+        "company": "",
+        "title": "",
+        "startTime": "January 1970",
+        "endTime": "December 1970",
+        "description": [""]
+      },
+      {
+        "company": "",
+        "title": "",
+        "customTimeFrame":
+          "January 1970 - December 1970, January 1972 - December 1972"
+      }
+    ],
+    "education": [
+      {
+        "name": "",
+        "startTime": "",
+        "endTime": "",
+        "major": "",
+        "minor": ""
+      }
+    ],
+    "skills": [""]
+  }
+}
